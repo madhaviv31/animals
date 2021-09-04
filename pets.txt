@@ -5,3 +5,5 @@ lucky
 axel
 carol
 peace
+buddy
+odie
